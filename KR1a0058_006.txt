@@ -1,8 +1,9 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 周易輯聞__筮宗
-#+DATE: 2015-09-23 09:34:42
-#+PROPERTY: KEY 周易輯聞/筮宗
-#+PROPERTY: JUAN 6
+# -*- mode: mandoku-view; -*-
+#+TITLE: 周易輯聞
+#+DATE: 2015-08-24 21:55:49.803230
+#+PROPERTY: ID KR1a0058
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1a0058_WYG_006-1a>¶
 欽定四庫全書¶
 　周易輯聞卷六¶
@@ -1245,4 +1246,3 @@
 　¶
 　¶
 　周易輯聞卷六¶
-

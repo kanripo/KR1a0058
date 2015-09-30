@@ -1,12 +1,14 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 周易輯聞__筮宗
-#+DATE: 2015-09-23 09:34:42
-#+PROPERTY: KEY 周易輯聞/筮宗
-#+PROPERTY: JUAN 0
+# -*- mode: mandoku-view; -*-
+#+TITLE: 周易輯聞
+#+DATE: 2015-08-24 21:55:49.591733
+#+PROPERTY: ID KR1a0058
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 御題影宋鈔周易輯聞
 <pb:KR1a0058_WYG_000-1a>¶
 御題影宋鈔周易輯聞¶
 廣大無不備夫惟易道然輯聞𫝊汴水述學衍先天觀¶
 彼多合聖切子斯體乾影鈔猶識宋逺矣緬韋編¶
+#+PROPERTY: JUAN 提要
 <pb:KR1a0058_WYG_000-2a>¶
 欽定四庫全書　　　　經部一¶
 　周易輯聞　　　　　　易𩔖¶
@@ -54,6 +56,7 @@
 　　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 <pb:KR1a0058_WYG_000-4b>¶
 　　　　　　　　總　校　官(臣/)陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1a0058_WYG_000-5a>¶
 周易輯聞原序¶
 易道函三極而神萬化易書立三極而萬化神道主於¶
@@ -72,4 +75,5 @@
 藁題曰補過汝楳得於口授者居多外除以來踰二十¶
 載因輯所聞於篇庶不忘先君子之教且以觀吾過云¶
 汴水趙汝楳序¶
-
+#+PROPERTY: JUAN 原序
+#+PROPERTY: JUAN 原序
